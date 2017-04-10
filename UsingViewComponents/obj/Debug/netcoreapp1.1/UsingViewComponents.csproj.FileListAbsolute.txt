@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp1.1\UsingViewComponents.deps.json
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp1.1\UsingViewComponents.runtimeconfig.json
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp1.1\UsingViewComponents.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp1.1\UsingViewComponents.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp1.1\UsingViewComponents.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp1.1\UsingViewComponents.dll
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp1.1\UsingViewComponents.pdb
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp1.1\UsingViewComponents.dll
+C:\Users\Administrator\Desktop\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp1.1\UsingViewComponents.pdb
